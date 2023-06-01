@@ -1,0 +1,139 @@
+a:link.nav-link{
+	color:black;
+}
+a:visited.nav-link{
+	color:black;
+}
+li.nav-item{
+	width:47;
+	height:26;
+}
+h2{
+	width:548px;
+	height:108px;
+}
+.textdesc{
+	text-align: justify;
+  text-justify: inter-word;
+  width:520px;
+	height:120px;
+}
+.arrow {
+  border: solid black;
+  border-width: 0 1px 1px 0;
+  display: inline-block;
+  padding: 3px;
+  margin:4px;
+}
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+div.col-sm-3{
+	margin:20px;
+	padding:10px;
+width: 308px;
+height: 320px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow:  0 0 10px  rgba(0,0,0,0.2);
+      -moz-box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+      -webkit-box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+      -o-box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+opacity: 1;
+border-radius: 25px;
+font-family:Nunito Sans, Regular;
+}
+.contents{
+	padding:5px;
+	margin:5px;
+	font-family:Nunito Sans, Regular;
+}
+h5.headingss{
+	padding:5px;
+	margin:5px;
+}
+.imagecard{
+	width: 243px;
+height: 187px;
+}
+.container1 {
+    align-items: center;
+    justify-content: center;
+  }
+  
+ .img1 {
+    width:50px;
+    height:50px;
+	padding-left:5px;
+	float:left;
+  }
+  
+  .text1 {
+    font-size: 15px;
+	padding:5px;
+  }
+  .text2 {
+    font-size: 15px;
+	font: normal normal normal 21px/28px Nunito Sans;
+	margin-left:5px;
+	padding:5px;
+  }
+  .table-responsive{
+	  padding:8%;
+  }
+   .bgcards11{
+	   justify-content: center;
+
+	  padding:5%;
+	  height:280px;
+	  box-shadow:  0 0 10px  rgba(0,0,0,0.2);
+      -moz-box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+      -webkit-box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+      -o-box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+opacity: 1;
+border-radius: 25px;
+  }
+  .bgcards1{
+	  background-color:white;
+	  height:263px;
+	  width:285px;
+	  margin:5px;
+	  padding:10px;
+	  font-size: 13px;
+	  box-shadow:  0 0 10px  rgba(0,0,0,0.2);
+      -moz-box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+      -webkit-box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+      -o-box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+opacity: 1;
+border-radius: 25px;
+  }
+  .overlapper{
+	  position: absolute;
+	  left:10%;
+	  right:10%;
+	  justify-content: center;
+  padding: 10px;
+  }
+  .imagecard2{
+	width: 100px;
+height: 100px;
+margin-left: auto;
+  margin-right: auto; 
+	  align-items: center;
+}
+p{
+	font-size: 14px;
+	font:Nunito Sans;
+	font-weight: 600;
+}
+.subtitle{
+	color:#615c1c;
+	font-size: 10px;
+	font:Nunito Sans;
+	font-weight: bold;
+}
+table{
+	font-size: 13px;
+	font:Nunito Sans;
+	font-weight: 600;
+}
